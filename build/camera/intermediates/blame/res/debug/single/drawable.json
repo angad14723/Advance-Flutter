@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mipl/Documents/Learning/getx_end2end/build/camera/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mipl/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mipl/Documents/Learning/getx_end2end/build/camera/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mipl/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mipl/Documents/Learning/getx_end2end/build/camera/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mipl/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mipl/Documents/Learning/getx_end2end/build/camera/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mipl/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]

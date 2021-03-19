@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907466156636",
+    "project_id": "getx-endtoend",
+    "storage_bucket": "getx-endtoend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907466156636:android:9c7692d892cc148c2d5499",
+        "android_client_info": {
+          "package_name": "com.angad14723.getx_end2end"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907466156636-i1m4huj5ia9ugjc5sq7ngsh7hv4cijsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqWcsiIpM3vfsBqCns7i5a7w_CcfmKLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907466156636-i1m4huj5ia9ugjc5sq7ngsh7hv4cijsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
